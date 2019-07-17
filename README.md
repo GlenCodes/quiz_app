@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 # Quizzler
 
 This is a Flutter app (written in Dart) which is essentially a quiz app. It asks you a series of questions and indicates whether you got each quiz answer right or not.
